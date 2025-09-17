@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Finish project report",
+    "status": "completed"
+  }
+]
